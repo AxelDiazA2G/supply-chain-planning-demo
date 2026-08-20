@@ -1,0 +1,7 @@
+item_id,description,avg_daily_demand,lead_time_days,safety_stock,on_hand,on_order
+MAT-100,Industrial gasket kit,12,14,60,105,0
+MAT-220,Hydraulic hose assembly,3,28,25,140,0
+MAT-310,Protective work gloves,18,7,80,160,40
+MAT-440,Stainless fastener pack,6,21,45,90,0
+MAT-510,Electrical connector set,9,35,90,260,180
+MAT-640,Equipment cleaning consumables,4,10,20,18,0
